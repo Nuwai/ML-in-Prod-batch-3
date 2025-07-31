@@ -179,3 +179,6 @@ cython_debug/
 #  refer to https://docs.cursor.com/context/ignore-files
 .cursorignore
 .cursorindexingignore
+tf_best_practices/cats_and_dogs_filtered/test/.DS_Store
+tf_best_practices/cats_and_dogs_filtered/.DS_Store
+/tf_best_practices/cats_and_dogs_filtered
