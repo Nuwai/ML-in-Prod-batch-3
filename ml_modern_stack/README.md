@@ -1,3 +1,12 @@
+## Model ML Stack by TharHtet
+In this Chapter I am going teach you following Topics:
+- High-Performance Model Training
+- ML model Scaling Out
+- Model Standardization 
+- High-Performance Model Inference
+
+
+
 | Feature              | **Triton Inference Server**                  | **Ray Serve**                   | **TensorFlow Serving**    | **Flask**         |
 | -------------------- | -------------------------------------------- | ------------------------------- | ------------------------- | ----------------- |
 | 🔧 Framework support | ONNX, TensorFlow, PyTorch, XGBoost, TensorRT | Any Python model (custom logic) | TensorFlow only           | Any Python model  |
