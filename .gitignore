@@ -182,3 +182,10 @@ cython_debug/
 tf_best_practices/cats_and_dogs_filtered/test/.DS_Store
 tf_best_practices/cats_and_dogs_filtered/.DS_Store
 /tf_best_practices/cats_and_dogs_filtered
+/2_env_setup/my_venv/my_env/share
+
+/2_env_setup/my_venv/my_env/bin
+
+
+.DS_Store
+/5_machine_learning/K-Mean_Clustering/fruit_clustering
