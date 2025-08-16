@@ -8,6 +8,8 @@ source my_env/bin/activate
 # 3. install packages
 pip install requests pandas
 
+
+
 # 4. freeze
 pip freeze > requirements.txt
 
