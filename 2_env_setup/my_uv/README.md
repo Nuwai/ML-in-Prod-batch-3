@@ -10,8 +10,6 @@ uv add requests pandas
 # 3. uv run script
 uv run python my_script.py
 
-
-
 # 5. Compile a lockfile for reproducibility
 uv lock
 

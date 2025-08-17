@@ -1,3 +1,3 @@
 import pandas as pd
-print("Hello, ML Summer School")
+print("Hello, ")
 print(pd.__version__)
