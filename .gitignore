@@ -189,3 +189,6 @@ tf_best_practices/cats_and_dogs_filtered/.DS_Store
 
 .DS_Store
 /5_machine_learning/K-Mean_Clustering/fruit_clustering
+/6_deep_learning/CNN/cats_and_dogs_filtered
+/6_deep_learning/tf_best_practices/logs/fit
+6_deep_learning/tf_best_practices/binary_classification/12345678_THS_model.h5
