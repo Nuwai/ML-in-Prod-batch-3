@@ -1,0 +1,12 @@
+{
+  "2402.12281v1": {
+    "title": "Challenges and Experiences of Iranian Developers with MLOps at Enterprise",
+    "authors": [
+      "Mohammad Heydari",
+      "Zahra Rezvani"
+    ],
+    "summary": "Data is becoming more complex, and so are the approaches designed to process\nit. Enterprises have access to more data than ever, but many still struggle to\nglean the full potential of insights from what they have. This research\nexplores the challenges and experiences of Iranian developers in implementing\nthe MLOps paradigm within enterprise settings. MLOps, or Machine Learning\nOperations, is a discipline focused on automating the continuous delivery of\nmachine learning models. In this study, we review the most popular MLOps tools\nused by leading technology enterprises. Additionally, we present the results of\na questionnaire answered by over 110 Iranian Machine Learning experts and\nSoftware Developers, shedding light on MLOps tools and the primary obstacles\nfaced. The findings reveal that data quality problems, a lack of resources, and\ndifficulties in model deployment are among the primary challenges faced by\npractitioners. Collaboration between ML, DevOps, Ops, and Science teams is seen\nas a pivotal challenge in implementing MLOps effectively.",
+    "pdf_url": "http://arxiv.org/pdf/2402.12281v1",
+    "published": "2024-02-19"
+  }
+}
