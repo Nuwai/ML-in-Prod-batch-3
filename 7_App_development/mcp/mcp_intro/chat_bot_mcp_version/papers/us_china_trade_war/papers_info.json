@@ -1,0 +1,59 @@
+{
+  "2111.15598v2": {
+    "title": "Inefficient Peace or Preventive War?",
+    "authors": [
+      "Liqun Liu",
+      "Tusi",
+      "Wen"
+    ],
+    "summary": "We study a model of two-player bargaining game in the shadow of a preventive\ntrade war that examines why states deliberately maintain trade barriers in the\nage of globalization. Globalization can induce substantial power shifts between\nstates, which makes the threat of a preventive trade war salient. In this\nsituation, there may exist \"healthy\" levels of trade barriers that dampen the\nwar incentives by reducing states' expected payoffs from such a war. Thus, we\ndemonstrate that trade barriers can sometimes serve as breaks and cushions\nnecessary to sustain inefficient yet peaceful economic cooperation between\nstates. We assess the theoretical implications by examining the US-China trade\nrelations since 1972.",
+    "pdf_url": "http://arxiv.org/pdf/2111.15598v2",
+    "published": "2021-11-30"
+  },
+  "2309.02271v1": {
+    "title": "Dual Effects of the US-China Trade War and COVID-19 on United States Imports: Transfer of China's industrial chain?",
+    "authors": [
+      "Wei Luo",
+      "Siyuan Kang",
+      "Sheng Hu",
+      "Lixian Su",
+      "Rui Dai"
+    ],
+    "summary": "The trade tension between the U.S. and China since 2018 has caused a steady\ndecoupling of the world's two largest economies. The pandemic outbreak in 2020\ncomplicated this process and had numerous unanticipated repercussions. This\npaper investigates how U.S. importers reacted to the trade war and worldwide\nlockdowns due to the COVID-19 pandemic. We examine the effects of the two\nincidents on U.S. imports separately and collectively, with various economic\nscopes. Our findings uncover intricate trading dynamics among the U.S., China,\nand Southeast Asia, through which businesses relocated portions of their global\nsupply chain away from China to avoid high tariffs. Our analysis indicates that\nincreased tariffs cause the U.S. to import less from China. Meanwhile,\nSoutheast Asian exporters have integrated more into value chains centered on\nChinese suppliers by participating more in assembling and completing products.\nHowever, the worldwide lockdowns over pandemic have reversed this trend as,\nover this period, the U.S. effectively imported more goods directly from China\nand indirectly through Southeast Asian exporters that imported from China.",
+    "pdf_url": "http://arxiv.org/pdf/2309.02271v1",
+    "published": "2023-09-05"
+  },
+  "2411.15092v2": {
+    "title": "Trade Wars with Trade Deficits",
+    "authors": [
+      "Pau Pujolas",
+      "Jack Rossbach"
+    ],
+    "summary": "Trade imbalances significantly alter the welfare implications of tariffs.\nUsing an illustrative model, we show that trade deficits enhance a country's\nability to alter its terms of trade, and thereby benefit from tariffs. Greater\ntrade deficits imply higher optimal, or welfare maximizing, tariffs. We compute\noptimal unilateral and Nash equilibrium tariffs between the United States and\nChina $\\unicode{x2014}$ the countries with the largest bilateral trade\nimbalance $\\unicode{x2014}$ using a multi-region, multi-sector applied general\nequilibrium model with service sectors and input-output linkages, a\ncomputationally complex task. Free trade benefits both countries compared to a\ntrade war. Relative to existing tariff rates, however, the United States gains\nfrom a trade war with China $\\unicode{x2014}$ a result that hinges on their\nbilateral trade imbalance.",
+    "pdf_url": "http://arxiv.org/pdf/2411.15092v2",
+    "published": "2024-11-22"
+  },
+  "2002.03492v1": {
+    "title": "All-Pay Auctions as Models for Trade Wars and Military Annexation",
+    "authors": [
+      "Benjamin Kang",
+      "James Unwin"
+    ],
+    "summary": "We explore an application of all-pay auctions to model trade wars and\nterritorial annexation. Specifically, in the model we consider the expected\nresource, production, and aggressive (military/tariff) power are public\ninformation, but actual resource levels are private knowledge. We consider the\nresource transfer at the end of such a competition which deprives the weaker\ncountry of some fraction of its original resources. In particular, we derive\nthe quasi-equilibria strategies for two country conflicts under different\nscenarios. This work is relevant for the ongoing US-China trade war, and the\nrecent Russian capture of Crimea, as well as historical and future conflicts.",
+    "pdf_url": "http://arxiv.org/pdf/2002.03492v1",
+    "published": "2020-02-10"
+  },
+  "2405.05634v1": {
+    "title": "High-Frequency Stock Market Order Transitions during the US-China Trade War 2018: A Discrete-Time Markov Chain Analysis",
+    "authors": [
+      "Salam Rabindrajit Luwang",
+      "Anish Rai",
+      "Md. Nurujjaman",
+      "Om Prakash",
+      "Chittaranjan Hens"
+    ],
+    "summary": "Statistical analysis of high-frequency stock market order transaction data is\nconducted to understand order transition dynamics. We employ a first-order\ntime-homogeneous discrete-time Markov chain model to the sequence of orders of\nstocks belonging to six different sectors during the USA-China trade war of\n2018. The Markov property of the order sequence is validated by the Chi-square\ntest. We estimate the transition probability matrix of the sequence using\nmaximum likelihood estimation. From the heat-map of these matrices, we found\nthe presence of active participation by different types of traders during high\nvolatility days. On such days, these traders place limit orders primarily with\nthe intention of deleting the majority of them to influence the market. These\nfindings are supported by high stationary distribution and low mean recurrence\nvalues of add and delete orders. Further, we found similar spectral gap and\nentropy rate values, which indicates that similar trading strategies are\nemployed on both high and low volatility days during the trade war. Among all\nthe sectors considered in this study, we observe that there is a recurring\npattern of full execution orders in Finance & Banking sector. This shows that\nthe banking stocks are resilient during the trade war. Hence, this study may be\nuseful in understanding stock market order dynamics and devise trading\nstrategies accordingly on high and low volatility days during extreme\nmacroeconomic events.",
+    "pdf_url": "http://arxiv.org/pdf/2405.05634v1",
+    "published": "2024-05-09"
+  }
+}
