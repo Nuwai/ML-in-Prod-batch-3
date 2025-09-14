@@ -1,0 +1,11 @@
+{
+  "1611.08903v1": {
+    "title": "Should I use TensorFlow",
+    "authors": [
+      "Martin Schrimpf"
+    ],
+    "summary": "Google's Machine Learning framework TensorFlow was open-sourced in November\n2015 [1] and has since built a growing community around it. TensorFlow is\nsupposed to be flexible for research purposes while also allowing its models to\nbe deployed productively. This work is aimed towards people with experience in\nMachine Learning considering whether they should use TensorFlow in their\nenvironment. Several aspects of the framework important for such a decision are\nexamined, such as the heterogenity, extensibility and its computation graph. A\npure Python implementation of linear classification is compared with an\nimplementation utilizing TensorFlow. I also contrast TensorFlow to other\npopular frameworks with respect to modeling capability, deployment and\nperformance and give a brief description of the current adaption of the\nframework.",
+    "pdf_url": "http://arxiv.org/pdf/1611.08903v1",
+    "published": "2016-11-27"
+  }
+}
