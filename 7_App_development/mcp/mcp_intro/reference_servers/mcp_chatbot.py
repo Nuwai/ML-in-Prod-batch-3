@@ -156,7 +156,7 @@ class MCP_ChatBot:
         await self.exit_stack.aclose()
 
 
-
+"""
 # test MCP server connect
 async def test_connect():
     chatbot = MCP_ChatBot()
@@ -185,4 +185,3 @@ async def main():
 if __name__ == "__main__":
     asyncio.run(main())
 
-"""
