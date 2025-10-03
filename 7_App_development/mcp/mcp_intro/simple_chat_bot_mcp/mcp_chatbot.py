@@ -55,6 +55,11 @@ class MCP_ChatBot:
                                           }
                                       ]
                                     })
+                    
+                    print("-"*100)
+                    print(messages)
+                    print(f"messages sent to LLM: {len(messages)}")
+                    print("-"*100)
                     response = self.anthropic.messages.create(max_tokens = 2024,
                                       model = 'claude-3-7-sonnet-20250219', 
                                       tools = self.available_tools,

@@ -1,0 +1,14 @@
+{
+  "2406.12081v1": {
+    "title": "Deep HM-SORT: Enhancing Multi-Object Tracking in Sports with Deep Features, Harmonic Mean, and Expansion IOU",
+    "authors": [
+      "Matias Gran-Henriksen",
+      "Hans Andreas Lindgaard",
+      "Gabriel Kiss",
+      "Frank Lindseth"
+    ],
+    "summary": "This paper introduces Deep HM-SORT, a novel online multi-object tracking\nalgorithm specifically designed to enhance the tracking of athletes in sports\nscenarios. Traditional multi-object tracking methods often struggle with sports\nenvironments due to the similar appearances of players, irregular and\nunpredictable movements, and significant camera motion. Deep HM-SORT addresses\nthese challenges by integrating deep features, harmonic mean, and Expansion\nIOU. By leveraging the harmonic mean, our method effectively balances\nappearance and motion cues, significantly reducing ID-swaps. Additionally, our\napproach retains all tracklets indefinitely, improving the re-identification of\nplayers who leave and re-enter the frame. Experimental results demonstrate that\nDeep HM-SORT achieves state-of-the-art performance on two large-scale public\nbenchmarks, SportsMOT and SoccerNet Tracking Challenge 2023. Specifically, our\nmethod achieves 80.1 HOTA on the SportsMOT dataset and 85.4 HOTA on the\nSoccerNet-Tracking dataset, outperforming existing trackers in key metrics such\nas HOTA, IDF1, AssA, and MOTA. This robust solution provides enhanced accuracy\nand reliability for automated sports analytics, offering significant\nimprovements over previous methods without introducing additional computational\ncost.",
+    "pdf_url": "http://arxiv.org/pdf/2406.12081v1",
+    "published": "2024-06-17"
+  }
+}

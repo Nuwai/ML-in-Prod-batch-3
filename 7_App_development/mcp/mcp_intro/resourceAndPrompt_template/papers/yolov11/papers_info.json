@@ -1,0 +1,26 @@
+{
+  "2410.17725v1": {
+    "title": "YOLOv11: An Overview of the Key Architectural Enhancements",
+    "authors": [
+      "Rahima Khanam",
+      "Muhammad Hussain"
+    ],
+    "summary": "This study presents an architectural analysis of YOLOv11, the latest\niteration in the YOLO (You Only Look Once) series of object detection models.\nWe examine the models architectural innovations, including the introduction of\nthe C3k2 (Cross Stage Partial with kernel size 2) block, SPPF (Spatial Pyramid\nPooling - Fast), and C2PSA (Convolutional block with Parallel Spatial\nAttention) components, which contribute in improving the models performance in\nseveral ways such as enhanced feature extraction. The paper explores YOLOv11's\nexpanded capabilities across various computer vision tasks, including object\ndetection, instance segmentation, pose estimation, and oriented object\ndetection (OBB). We review the model's performance improvements in terms of\nmean Average Precision (mAP) and computational efficiency compared to its\npredecessors, with a focus on the trade-off between parameter count and\naccuracy. Additionally, the study discusses YOLOv11's versatility across\ndifferent model sizes, from nano to extra-large, catering to diverse\napplication needs from edge devices to high-performance computing environments.\nOur research provides insights into YOLOv11's position within the broader\nlandscape of object detection and its potential impact on real-time computer\nvision applications.",
+    "pdf_url": "http://arxiv.org/pdf/2410.17725v1",
+    "published": "2024-10-23"
+  },
+  "2411.18871v1": {
+    "title": "Comprehensive Performance Evaluation of YOLOv11, YOLOv10, YOLOv9, YOLOv8 and YOLOv5 on Object Detection of Power Equipment",
+    "authors": [
+      "Zijian He",
+      "Kang Wang",
+      "Tian Fang",
+      "Lei Su",
+      "Rui Chen",
+      "Xihong Fei"
+    ],
+    "summary": "With the rapid development of global industrial production, the demand for\nreliability in power equipment has been continuously increasing. Ensuring the\nstability of power system operations requires accurate methods to detect\npotential faults in power equipment, thereby guaranteeing the normal supply of\nelectrical energy. In this article, the performance of YOLOv5, YOLOv8, YOLOv9,\nYOLOv10, and the state-of-the-art YOLOv11 methods was comprehensively evaluated\nfor power equipment object detection. Experimental results demonstrate that the\nmean average precision (mAP) on a public dataset for power equipment was 54.4%,\n55.5%, 43.8%, 48.0%, and 57.2%, respectively, with the YOLOv11 achieving the\nhighest detection performance. Moreover, the YOLOv11 outperformed other methods\nin terms of recall rate and exhibited superior performance in reducing false\ndetections. In conclusion, the findings indicate that the YOLOv11 model\nprovides a reliable and effective solution for power equipment object\ndetection, representing a promising approach to enhancing the operational\nreliability of power systems.",
+    "pdf_url": "http://arxiv.org/pdf/2411.18871v1",
+    "published": "2024-11-28"
+  }
+}

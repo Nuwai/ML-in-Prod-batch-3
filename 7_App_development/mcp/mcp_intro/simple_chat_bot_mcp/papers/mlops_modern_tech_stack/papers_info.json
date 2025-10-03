@@ -1,0 +1,77 @@
+{
+  "2402.12867v1": {
+    "title": "Towards MLOps: A DevOps Tools Recommender System for Machine Learning System",
+    "authors": [
+      "Pir Sami Ullah Shah",
+      "Naveed Ahmad",
+      "Mirza Omer Beg"
+    ],
+    "summary": "Applying DevOps practices to machine learning system is termed as MLOps and\nmachine learning systems evolve on new data unlike traditional systems on\nrequirements. The objective of MLOps is to establish a connection between\ndifferent open-source tools to construct a pipeline that can automatically\nperform steps to construct a dataset, train the machine learning model and\ndeploy the model to the production as well as store different versions of model\nand dataset. Benefits of MLOps is to make sure the fast delivery of the new\ntrained models to the production to have accurate results. Furthermore, MLOps\npractice impacts the overall quality of the software products and is completely\ndependent on open-source tools and selection of relevant open-source tools is\nconsidered as challenged while a generalized method to select an appropriate\nopen-source tools is desirable. In this paper, we present a framework for\nrecommendation system that processes the contextual information (e.g., nature\nof data, type of the data) of the machine learning project and recommends a\nrelevant toolchain (tech-stack) for the operationalization of machine learning\nsystems. To check the applicability of the proposed framework, four different\napproaches i.e., rule-based, random forest, decision trees and k-nearest\nneighbors were investigated where precision, recall and f-score is measured,\nthe random forest out classed other approaches with highest f-score value of\n0.66.",
+    "pdf_url": "http://arxiv.org/pdf/2402.12867v1",
+    "published": "2024-02-20"
+  },
+  "2212.03332v3": {
+    "title": "Edge Impulse: An MLOps Platform for Tiny Machine Learning",
+    "authors": [
+      "Shawn Hymel",
+      "Colby Banbury",
+      "Daniel Situnayake",
+      "Alex Elium",
+      "Carl Ward",
+      "Mat Kelcey",
+      "Mathijs Baaijens",
+      "Mateusz Majchrzycki",
+      "Jenny Plunkett",
+      "David Tischler",
+      "Alessandro Grande",
+      "Louis Moreau",
+      "Dmitry Maslov",
+      "Artie Beavis",
+      "Jan Jongboom",
+      "Vijay Janapa Reddi"
+    ],
+    "summary": "Edge Impulse is a cloud-based machine learning operations (MLOps) platform\nfor developing embedded and edge ML (TinyML) systems that can be deployed to a\nwide range of hardware targets. Current TinyML workflows are plagued by\nfragmented software stacks and heterogeneous deployment hardware, making ML\nmodel optimizations difficult and unportable. We present Edge Impulse, a\npractical MLOps platform for developing TinyML systems at scale. Edge Impulse\naddresses these challenges and streamlines the TinyML design cycle by\nsupporting various software and hardware optimizations to create an extensible\nand portable software stack for a multitude of embedded systems. As of Oct.\n2022, Edge Impulse hosts 118,185 projects from 50,953 developers.",
+    "pdf_url": "http://arxiv.org/pdf/2212.03332v3",
+    "published": "2022-11-02"
+  },
+  "2001.07935v2": {
+    "title": "CodeReef: an open platform for portable MLOps, reusable automation actions and reproducible benchmarking",
+    "authors": [
+      "Grigori Fursin",
+      "Herve Guillou",
+      "Nicolas Essayan"
+    ],
+    "summary": "We present CodeReef - an open platform to share all the components necessary\nto enable cross-platform MLOps (MLSysOps), i.e. automating the deployment of ML\nmodels across diverse systems in the most efficient way. We also introduce the\nCodeReef solution - a way to package and share models as non-virtualized,\nportable, customizable and reproducible archive files. Such ML packages include\nJSON meta description of models with all dependencies, Python APIs, CLI actions\nand portable workflows necessary to automatically build, benchmark, test and\ncustomize models across diverse platforms, AI frameworks, libraries, compilers\nand datasets. We demonstrate several CodeReef solutions to automatically build,\nrun and measure object detection based on SSD-Mobilenets, TensorFlow and COCO\ndataset from the latest MLPerf inference benchmark across a wide range of\nplatforms from Raspberry Pi, Android phones and IoT devices to data centers.\nOur long-term goal is to help researchers share their new techniques as\nproduction-ready packages along with research papers to participate in\ncollaborative and reproducible benchmarking, compare the different\nML/software/hardware stacks and select the most efficient ones on a Pareto\nfrontier using online CodeReef dashboards.",
+    "pdf_url": "http://arxiv.org/pdf/2001.07935v2",
+    "published": "2020-01-22"
+  },
+  "2103.01837v1": {
+    "title": "Test Automation with Grad-CAM Heatmaps -- A Future Pipe Segment in MLOps for Vision AI?",
+    "authors": [
+      "Markus Borg",
+      "Ronald Jabangwe",
+      "Simon \u00c5berg",
+      "Arvid Ekblom",
+      "Ludwig Hedlund",
+      "August Lidfeldt"
+    ],
+    "summary": "Machine Learning (ML) is a fundamental part of modern perception systems. In\nthe last decade, the performance of computer vision using trained deep neural\nnetworks has outperformed previous approaches based on careful feature\nengineering. However, the opaqueness of large ML models is a substantial\nimpediment for critical applications such as in the automotive context. As a\nremedy, Gradient-weighted Class Activation Mapping (Grad-CAM) has been proposed\nto provide visual explanations of model internals. In this paper, we\ndemonstrate how Grad-CAM heatmaps can be used to increase the explainability of\nan image recognition model trained for a pedestrian underpass. We argue how the\nheatmaps support compliance to the EU's seven key requirements for Trustworthy\nAI. Finally, we propose adding automated heatmap analysis as a pipe segment in\nan MLOps pipeline. We believe that such a building block can be used to\nautomatically detect if a trained ML-model is activated based on invalid pixels\nin test images, suggesting biased models.",
+    "pdf_url": "http://arxiv.org/pdf/2103.01837v1",
+    "published": "2021-03-02"
+  },
+  "2109.02359v1": {
+    "title": "Examining the tech stacks of Czech and Slovak untrustworthy websites",
+    "authors": [
+      "Jozef Michal Mintal",
+      "Anna Macko",
+      "Marko Pa\u013ea",
+      "Franti\u0161ka Piroskov\u00e1",
+      "Pavlo Yakubets",
+      "Jaroslav U\u0161iak",
+      "Karol Fabi\u00e1n"
+    ],
+    "summary": "The burgeoning of misleading or false information spread by untrustworthy\nwebsites has, without doubt, created a dangerous concoction. Thus, it is not a\nsurprise that the threat posed by untrustworthy websites has emerged as a\ncentral concern on the public agenda in many countries, including Czechia and\nSlovakia. However, combating this harmful phenomenon has proven to be\ndifficult, with approaches primarily focusing on tackling consequences instead\nof prevention, as websites are routinely seen as quasi-sovereign organisms.\nWebsites, however, rely upon a host of service providers, which, in a way, hold\nsubstantial power over them. Notwithstanding the apparent power hold by such\ntech stack layers, scholarship on this topic remains largely limited. This\narticle contributes to this small body of knowledge by providing a\nfirst-of-its-kind systematic mapping of the back-end infrastructural support\nthat makes up the tech stacks of Czech and Slovak untrustworthy websites. Our\napproach is based on collecting and analyzing data on top-level domain\noperators, domain name Registrars, email providers, web hosting providers, and\nutilized website tracking technologies of 150 Czech and Slovak untrustworthy\nwebsites. Our findings show that the Czech and Slovak untrustworthy website\nlandscape relies on a vast number of back-end services spread across multiple\ncountries, but in key tech stack layers is nevertheless still heavily dominated\nby locally based companies. Finally, given our findings, we discuss various\npossible avenues of utilizing the numeral tech stack layers in combating online\ndisinformation.",
+    "pdf_url": "http://arxiv.org/pdf/2109.02359v1",
+    "published": "2021-09-06"
+  }
+}
