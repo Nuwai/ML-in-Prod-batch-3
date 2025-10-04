@@ -27,7 +27,7 @@ pip install dvc-gs
 
 #### 3. Init DVC
 ```bash
-dvc init
+dvc init --no-scm
 git status
 Changes to be committed:
         new file:   .dvc/.gitignore
