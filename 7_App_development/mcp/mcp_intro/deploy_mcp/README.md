@@ -20,7 +20,7 @@ mcp = FastMCP("research", stateless_http=True)
 Stateless can be used when you want the server to handle simple, independent requests (no memory of previous interactions with the same client). Stateful can be used when you want the server to handle multiple requests that are part of a workflow and you want the server to remember the Client information and context across multiple request
 
 
-## test
+## Test with inspector
 ### start inspector server for Tools, Prompt template
 ```bash
 npx @modelcontextprotocol/inspector uv run research_server.py
