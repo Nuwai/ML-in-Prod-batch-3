@@ -1,0 +1,27 @@
+{
+  "2503.15577v1": {
+    "title": "Navigating MLOps: Insights into Maturity, Lifecycle, Tools, and Careers",
+    "authors": [
+      "Jasper Stone",
+      "Raj Patel",
+      "Farbod Ghiasi",
+      "Sudip Mittal",
+      "Shahram Rahimi"
+    ],
+    "summary": "The adoption of Machine Learning Operations (MLOps) enables automation and\nreliable model deployments across industries. However, differing MLOps\nlifecycle frameworks and maturity models proposed by industry, academia, and\norganizations have led to confusion regarding standard adoption practices. This\npaper introduces a unified MLOps lifecycle framework, further incorporating\nLarge Language Model Operations (LLMOps), to address this gap. Additionally, we\noutlines key roles, tools, and costs associated with MLOps adoption at various\nmaturity levels. By providing a standardized framework, we aim to help\norganizations clearly define and allocate the resources needed to implement\nMLOps effectively.",
+    "pdf_url": "http://arxiv.org/pdf/2503.15577v1",
+    "published": "2025-03-19"
+  },
+  "2406.19847v1": {
+    "title": "An Analysis of MLOps Architectures: A Systematic Mapping Study",
+    "authors": [
+      "Faezeh Amou Najafabadi",
+      "Justus Bogner",
+      "Ilias Gerostathopoulos",
+      "Patricia Lago"
+    ],
+    "summary": "Context. Despite the increasing adoption of Machine Learning Operations\n(MLOps), teams still encounter challenges in effectively applying this paradigm\nto their specific projects. While there is a large variety of available tools\nusable for MLOps, there is simultaneously a lack of consolidated architecture\nknowledge that can inform the architecture design. Objective. Our primary\nobjective is to provide a comprehensive overview of (i) how MLOps architectures\nare defined across the literature and (ii) which tools are mentioned to support\nthe implementation of each architecture component. Method. We apply the\nSystematic Mapping Study method and select 43 primary studies via automatic,\nmanual, and snowballing-based search and selection procedures. Subsequently, we\nuse card sorting to synthesize the results. Results. We contribute (i) a\ncategorization of 35 MLOps architecture components, (ii) a description of\nseveral MLOps architecture variants, and (iii) a systematic map between the\nidentified components and the existing MLOps tools. Conclusion. This study\nprovides an overview of the state of the art in MLOps from an architectural\nperspective. Researchers and practitioners can use our findings to inform the\narchitecture design of their MLOps systems.",
+    "pdf_url": "http://arxiv.org/pdf/2406.19847v1",
+    "published": "2024-06-28"
+  }
+}

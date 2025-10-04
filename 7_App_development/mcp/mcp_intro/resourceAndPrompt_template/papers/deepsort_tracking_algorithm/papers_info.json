@@ -1,0 +1,70 @@
+{
+  "2207.12202v1": {
+    "title": "Video object tracking based on YOLOv7 and DeepSORT",
+    "authors": [
+      "Feng Yang",
+      "Xingle Zhang",
+      "Bo Liu"
+    ],
+    "summary": "Multiple object tracking (MOT) is an important technology in the field of\ncomputer vision, which is widely used in automatic driving, intelligent\nmonitoring, behavior recognition and other directions. Among the current\npopular MOT methods based on deep learning, Detection Based Tracking (DBT) is\nthe most widely used in industry, and the performance of them depend on their\nobject detection network. At present, the DBT algorithm with good performance\nand the most widely used is YOLOv5-DeepSORT. Inspired by YOLOv5-DeepSORT, with\nthe proposal of YOLOv7 network, which performs better in object detection, we\napply YOLOv7 as the object detection part to the DeepSORT, and propose\nYOLOv7-DeepSORT. After experimental evaluation, compared with the previous\nYOLOv5-DeepSORT, YOLOv7-DeepSORT performances better in tracking accuracy.",
+    "pdf_url": "http://arxiv.org/pdf/2207.12202v1",
+    "published": "2022-07-25"
+  },
+  "2505.07110v1": {
+    "title": "DeepSORT-Driven Visual Tracking Approach for Gesture Recognition in Interactive Systems",
+    "authors": [
+      "Tong Zhang",
+      "Fenghua Shao",
+      "Runsheng Zhang",
+      "Yifan Zhuang",
+      "Liuqingqing Yang"
+    ],
+    "summary": "Based on the DeepSORT algorithm, this study explores the application of\nvisual tracking technology in intelligent human-computer interaction,\nespecially in the field of gesture recognition and tracking. With the rapid\ndevelopment of artificial intelligence and deep learning technology,\nvisual-based interaction has gradually replaced traditional input devices and\nbecome an important way for intelligent systems to interact with users. The\nDeepSORT algorithm can achieve accurate target tracking in dynamic environments\nby combining Kalman filters and deep learning feature extraction methods. It is\nespecially suitable for complex scenes with multi-target tracking and fast\nmovements. This study experimentally verifies the superior performance of\nDeepSORT in gesture recognition and tracking. It can accurately capture and\ntrack the user's gesture trajectory and is superior to traditional tracking\nmethods in terms of real-time and accuracy. In addition, this study also\ncombines gesture recognition experiments to evaluate the recognition ability\nand feedback response of the DeepSORT algorithm under different gestures (such\nas sliding, clicking, and zooming). The experimental results show that DeepSORT\ncan not only effectively deal with target occlusion and motion blur but also\ncan stably track in a multi-target environment, achieving a smooth user\ninteraction experience. Finally, this paper looks forward to the future\ndevelopment direction of intelligent human-computer interaction systems based\non visual tracking and proposes future research focuses such as algorithm\noptimization, data fusion, and multimodal interaction in order to promote a\nmore intelligent and personalized interactive experience. Keywords-DeepSORT,\nvisual tracking, gesture recognition, human-computer interaction",
+    "pdf_url": "http://arxiv.org/pdf/2505.07110v1",
+    "published": "2025-05-11"
+  },
+  "2301.08189v1": {
+    "title": "Benchmarking YOLOv5 and YOLOv7 models with DeepSORT for droplet tracking applications",
+    "authors": [
+      "Mihir Durve",
+      "Sibilla Orsini",
+      "Adriano Tiribocchi",
+      "Andrea Montessori",
+      "Jean-Michel Tucny",
+      "Marco Lauricella",
+      "Andrea Camposeo",
+      "Dario Pisignano",
+      "Sauro Succi"
+    ],
+    "summary": "Tracking droplets in microfluidics is a challenging task. The difficulty\narises in choosing a tool to analyze general microfluidic videos to infer\nphysical quantities. The state-of-the-art object detector algorithm You Only\nLook Once (YOLO) and the object tracking algorithm Simple Online and Realtime\nTracking with a Deep Association Metric (DeepSORT) are customizable for droplet\nidentification and tracking. The customization includes training YOLO and\nDeepSORT networks to identify and track the objects of interest. We trained\nseveral YOLOv5 and YOLOv7 models and the DeepSORT network for droplet\nidentification and tracking from microfluidic experimental videos. We compare\nthe performance of the droplet tracking applications with YOLOv5 and YOLOv7 in\nterms of training time and time to analyze a given video across various\nhardware configurations. Despite the latest YOLOv7 being 10% faster, the\nreal-time tracking is only achieved by lighter YOLO models on RTX 3070 Ti GPU\nmachine due to additional significant droplet tracking costs arising from the\nDeepSORT algorithm. This work is a benchmark study for the YOLOv5 and YOLOv7\nnetworks with DeepSORT in terms of the training time and inference time for a\ncustom dataset of microfluidic droplets.",
+    "pdf_url": "http://arxiv.org/pdf/2301.08189v1",
+    "published": "2023-01-19"
+  },
+  "2107.01575v1": {
+    "title": "Tracking droplets in soft granular flows with deep learning techniques",
+    "authors": [
+      "Mihir Durve",
+      "Fabio Bonaccorso",
+      "Andrea Montessori",
+      "Marco Lauricella",
+      "Adriano Tiribocchi",
+      "Sauro Succi"
+    ],
+    "summary": "The state-of-the-art deep learning-based object recognition YOLO algorithm\nand object tracking DeepSORT algorithm are combined to analyze digital images\nfrom fluid dynamic simulations of multi-core emulsions and soft flowing\ncrystals and to track moving droplets within these complex flows. The YOLO\nnetwork was trained to recognize the droplets with synthetically prepared data,\nthereby bypassing the labor-intensive data acquisition process. In both\napplications, the trained YOLO + DeepSORT procedure performs with high accuracy\non the real data from the fluid simulations, with low error levels in the\ninferred trajectories of the droplets and independently computed ground truth.\nMoreover, using commonly used desktop GPUs, the developed application is\ncapable of analyzing data at speeds that exceed the typical image acquisition\nrates of digital cameras (30 fps), opening the interesting prospect of\nrealizing a low-cost and practical tool to study systems with many moving\nobjects, mostly but not exclusively, biological ones. Besides its practical\napplications, the procedure presented here marks the first step towards the\nautomatic extraction of effective equations of motion of many-body soft flowing\nsystems.",
+    "pdf_url": "http://arxiv.org/pdf/2107.01575v1",
+    "published": "2021-07-04"
+  },
+  "2311.17656v1": {
+    "title": "Multiple Toddler Tracking in Indoor Videos",
+    "authors": [
+      "Somaieh Amraee",
+      "Bishoy Galoaa",
+      "Matthew Goodwin",
+      "Elaheh Hatamimajoumerd",
+      "Sarah Ostadabbas"
+    ],
+    "summary": "Multiple toddler tracking (MTT) involves identifying and differentiating\ntoddlers in video footage. While conventional multi-object tracking (MOT)\nalgorithms are adept at tracking diverse objects, toddlers pose unique\nchallenges due to their unpredictable movements, various poses, and similar\nappearance. Tracking toddlers in indoor environments introduces additional\ncomplexities such as occlusions and limited fields of view. In this paper, we\naddress the challenges of MTT and propose MTTSort, a customized method built\nupon the DeepSort algorithm. MTTSort is designed to track multiple toddlers in\nindoor videos accurately. Our contributions include discussing the primary\nchallenges in MTT, introducing a genetic algorithm to optimize hyperparameters,\nproposing an accurate tracking algorithm, and curating the MTTrack dataset\nusing unbiased AI co-labeling techniques. We quantitatively compare MTTSort to\nstate-of-the-art MOT methods on MTTrack, DanceTrack, and MOT15 datasets. In our\nevaluation, the proposed method outperformed other MOT methods, achieving 0.98,\n0.68, and 0.98 in multiple object tracking accuracy (MOTA), higher order\ntracking accuracy (HOTA), and iterative and discriminative framework 1 (IDF1)\nmetrics, respectively.",
+    "pdf_url": "http://arxiv.org/pdf/2311.17656v1",
+    "published": "2023-11-29"
+  }
+}

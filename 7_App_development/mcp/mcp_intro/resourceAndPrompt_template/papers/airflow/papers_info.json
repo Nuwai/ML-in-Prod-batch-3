@@ -1,0 +1,15 @@
+{
+  "2310.08853v1": {
+    "title": "Spatially Continuous Non-Contact Cold Sensation Presentation Based on Low-Temperature Airflows",
+    "authors": [
+      "Koyo Makino",
+      "Jiayi Xu",
+      "Akiko Kaneko",
+      "Naoto Ienaga",
+      "Yoshihiro Kuroda"
+    ],
+    "summary": "Our perception of cold enriches our understanding of the world and allows us\nto interact with it. Therefore, the presentation of cold sensations will be\nbeneficial in improving the sense of immersion and presence in virtual reality\nand the metaverse. This study proposed a novel method for spatially continuous\ncold sensation presentation based on low-temperature airflows. We defined the\nshortest distance between two airflows perceived as different cold stimuli as a\nlocal cold stimulus group discrimination threshold (LCSGDT). By setting the\ndistance between airflows within the LCSGDT, spatially continuous cold\nsensations can be achieved with an optimal number of cold airflows. We\nhypothesized that the LCSGDTs are related to the heat-transfer capability of\nairflows and developed a model to relate them. We investigated the LCSGDTs at a\nflow rate of 25 L/min and presentation distances ranging from 10 to 50 mm. The\nresults showed that under these conditions, the LCSGDTs are 131.4 $\\pm$ 1.9 mm,\nand the heat-transfer capacity of the airflow corresponding to these LCSGDTs is\nan almost constant value, that is, 0.92.",
+    "pdf_url": "http://arxiv.org/pdf/2310.08853v1",
+    "published": "2023-10-13"
+  }
+}

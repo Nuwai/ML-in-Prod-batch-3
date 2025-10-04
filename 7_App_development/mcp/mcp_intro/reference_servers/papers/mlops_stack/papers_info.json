@@ -1,0 +1,37 @@
+{
+  "2402.12867v1": {
+    "title": "Towards MLOps: A DevOps Tools Recommender System for Machine Learning System",
+    "authors": [
+      "Pir Sami Ullah Shah",
+      "Naveed Ahmad",
+      "Mirza Omer Beg"
+    ],
+    "summary": "Applying DevOps practices to machine learning system is termed as MLOps and\nmachine learning systems evolve on new data unlike traditional systems on\nrequirements. The objective of MLOps is to establish a connection between\ndifferent open-source tools to construct a pipeline that can automatically\nperform steps to construct a dataset, train the machine learning model and\ndeploy the model to the production as well as store different versions of model\nand dataset. Benefits of MLOps is to make sure the fast delivery of the new\ntrained models to the production to have accurate results. Furthermore, MLOps\npractice impacts the overall quality of the software products and is completely\ndependent on open-source tools and selection of relevant open-source tools is\nconsidered as challenged while a generalized method to select an appropriate\nopen-source tools is desirable. In this paper, we present a framework for\nrecommendation system that processes the contextual information (e.g., nature\nof data, type of the data) of the machine learning project and recommends a\nrelevant toolchain (tech-stack) for the operationalization of machine learning\nsystems. To check the applicability of the proposed framework, four different\napproaches i.e., rule-based, random forest, decision trees and k-nearest\nneighbors were investigated where precision, recall and f-score is measured,\nthe random forest out classed other approaches with highest f-score value of\n0.66.",
+    "pdf_url": "http://arxiv.org/pdf/2402.12867v1",
+    "published": "2024-02-20"
+  },
+  "2212.03332v3": {
+    "title": "Edge Impulse: An MLOps Platform for Tiny Machine Learning",
+    "authors": [
+      "Shawn Hymel",
+      "Colby Banbury",
+      "Daniel Situnayake",
+      "Alex Elium",
+      "Carl Ward",
+      "Mat Kelcey",
+      "Mathijs Baaijens",
+      "Mateusz Majchrzycki",
+      "Jenny Plunkett",
+      "David Tischler",
+      "Alessandro Grande",
+      "Louis Moreau",
+      "Dmitry Maslov",
+      "Artie Beavis",
+      "Jan Jongboom",
+      "Vijay Janapa Reddi"
+    ],
+    "summary": "Edge Impulse is a cloud-based machine learning operations (MLOps) platform\nfor developing embedded and edge ML (TinyML) systems that can be deployed to a\nwide range of hardware targets. Current TinyML workflows are plagued by\nfragmented software stacks and heterogeneous deployment hardware, making ML\nmodel optimizations difficult and unportable. We present Edge Impulse, a\npractical MLOps platform for developing TinyML systems at scale. Edge Impulse\naddresses these challenges and streamlines the TinyML design cycle by\nsupporting various software and hardware optimizations to create an extensible\nand portable software stack for a multitude of embedded systems. As of Oct.\n2022, Edge Impulse hosts 118,185 projects from 50,953 developers.",
+    "pdf_url": "http://arxiv.org/pdf/2212.03332v3",
+    "published": "2022-11-02"
+  }
+}

@@ -73,3 +73,6 @@ You can check the readme file of each server to check the features they expose a
 ### Test fetch mcp server
 tell me about this man https://github.com/tharhtetsan
 
+Query: find 2 MLOps stack papers and tell me skill match with this man https://github.com/tharhtetsan
+
+

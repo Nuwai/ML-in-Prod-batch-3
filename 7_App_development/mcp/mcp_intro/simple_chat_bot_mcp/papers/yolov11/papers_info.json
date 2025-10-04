@@ -1,0 +1,61 @@
+{
+  "2410.17725v1": {
+    "title": "YOLOv11: An Overview of the Key Architectural Enhancements",
+    "authors": [
+      "Rahima Khanam",
+      "Muhammad Hussain"
+    ],
+    "summary": "This study presents an architectural analysis of YOLOv11, the latest\niteration in the YOLO (You Only Look Once) series of object detection models.\nWe examine the models architectural innovations, including the introduction of\nthe C3k2 (Cross Stage Partial with kernel size 2) block, SPPF (Spatial Pyramid\nPooling - Fast), and C2PSA (Convolutional block with Parallel Spatial\nAttention) components, which contribute in improving the models performance in\nseveral ways such as enhanced feature extraction. The paper explores YOLOv11's\nexpanded capabilities across various computer vision tasks, including object\ndetection, instance segmentation, pose estimation, and oriented object\ndetection (OBB). We review the model's performance improvements in terms of\nmean Average Precision (mAP) and computational efficiency compared to its\npredecessors, with a focus on the trade-off between parameter count and\naccuracy. Additionally, the study discusses YOLOv11's versatility across\ndifferent model sizes, from nano to extra-large, catering to diverse\napplication needs from edge devices to high-performance computing environments.\nOur research provides insights into YOLOv11's position within the broader\nlandscape of object detection and its potential impact on real-time computer\nvision applications.",
+    "pdf_url": "http://arxiv.org/pdf/2410.17725v1",
+    "published": "2024-10-23"
+  },
+  "2411.18871v1": {
+    "title": "Comprehensive Performance Evaluation of YOLOv11, YOLOv10, YOLOv9, YOLOv8 and YOLOv5 on Object Detection of Power Equipment",
+    "authors": [
+      "Zijian He",
+      "Kang Wang",
+      "Tian Fang",
+      "Lei Su",
+      "Rui Chen",
+      "Xihong Fei"
+    ],
+    "summary": "With the rapid development of global industrial production, the demand for\nreliability in power equipment has been continuously increasing. Ensuring the\nstability of power system operations requires accurate methods to detect\npotential faults in power equipment, thereby guaranteeing the normal supply of\nelectrical energy. In this article, the performance of YOLOv5, YOLOv8, YOLOv9,\nYOLOv10, and the state-of-the-art YOLOv11 methods was comprehensively evaluated\nfor power equipment object detection. Experimental results demonstrate that the\nmean average precision (mAP) on a public dataset for power equipment was 54.4%,\n55.5%, 43.8%, 48.0%, and 57.2%, respectively, with the YOLOv11 achieving the\nhighest detection performance. Moreover, the YOLOv11 outperformed other methods\nin terms of recall rate and exhibited superior performance in reducing false\ndetections. In conclusion, the findings indicate that the YOLOv11 model\nprovides a reliable and effective solution for power equipment object\ndetection, representing a promising approach to enhancing the operational\nreliability of power systems.",
+    "pdf_url": "http://arxiv.org/pdf/2411.18871v1",
+    "published": "2024-11-28"
+  },
+  "2412.14790v3": {
+    "title": "YOLOv11 Optimization for Efficient Resource Utilization",
+    "authors": [
+      "Areeg Fahad Rasheed",
+      "M. Zarkoosh"
+    ],
+    "summary": "The objective of this research is to optimize the eleventh iteration of You\nOnly Look Once (YOLOv11) by developing size-specific modified versions of the\narchitecture. These modifications involve pruning unnecessary layers and\nreconfiguring the main architecture of YOLOv11. Each proposed version is\ntailored to detect objects of specific size ranges, from small to large. To\nensure proper model selection based on dataset characteristics, we introduced\nan object classifier program. This program identifies the most suitable\nmodified version for a given dataset. The proposed models were evaluated on\nvarious datasets and compared with the original YOLOv11 and YOLOv8 models. The\nexperimental results highlight significant improvements in computational\nresource efficiency, with the proposed models maintaining the accuracy of the\noriginal YOLOv11. In some cases, the modified versions outperformed the\noriginal model regarding detection performance. Furthermore, the proposed\nmodels demonstrated reduced model sizes and faster inference times. Models\nweights and the object size classifier can be found in this repository",
+    "pdf_url": "http://arxiv.org/pdf/2412.14790v3",
+    "published": "2024-12-19"
+  },
+  "2503.00057v2": {
+    "title": "Improved YOLOv12 with LLM-Generated Synthetic Data for Enhanced Apple Detection and Benchmarking Against YOLOv11 and YOLOv10",
+    "authors": [
+      "Ranjan Sapkota",
+      "Manoj Karkee"
+    ],
+    "summary": "This study evaluated the performance of the YOLOv12 object detection model,\nand compared against the performances YOLOv11 and YOLOv10 for apple detection\nin commercial orchards based on the model training completed entirely on\nsynthetic images generated by Large Language Models (LLMs). The YOLOv12n\nconfiguration achieved the highest precision at 0.916, the highest recall at\n0.969, and the highest mean Average Precision (mAP@50) at 0.978. In comparison,\nthe YOLOv11 series was led by YOLO11x, which achieved the highest precision at\n0.857, recall at 0.85, and mAP@50 at 0.91. For the YOLOv10 series, YOLOv10b and\nYOLOv10l both achieved the highest precision at 0.85, with YOLOv10n achieving\nthe highest recall at 0.8 and mAP@50 at 0.89. These findings demonstrated that\nYOLOv12, when trained on realistic LLM-generated datasets surpassed its\npredecessors in key performance metrics. The technique also offered a\ncost-effective solution by reducing the need for extensive manual data\ncollection in the agricultural field. In addition, this study compared the\ncomputational efficiency of all versions of YOLOv12, v11 and v10, where\nYOLOv11n reported the lowest inference time at 4.7 ms, compared to YOLOv12n's\n5.6 ms and YOLOv10n's 5.9 ms. Although YOLOv12 is new and more accurate than\nYOLOv11, and YOLOv10, YOLO11n still stays the fastest YOLO model among YOLOv10,\nYOLOv11 and YOLOv12 series of models. (Index: YOLOv12, YOLOv11, YOLOv10,\nYOLOv13, YOLOv14, YOLOv15, YOLOE, YOLO Object detection)",
+    "pdf_url": "http://arxiv.org/pdf/2503.00057v2",
+    "published": "2025-02-26"
+  },
+  "2509.24595v1": {
+    "title": "Comprehensive Benchmarking of YOLOv11 Architectures for Scalable and Granular Peripheral Blood Cell Detection",
+    "authors": [
+      "Mohamad Abou Ali",
+      "Mariam Abdulfattah",
+      "Baraah Al Hussein",
+      "Fadi Dornaika",
+      "Ali Cherry",
+      "Mohamad Hajj-Hassan",
+      "Lara Hamawy"
+    ],
+    "summary": "Manual peripheral blood smear (PBS) analysis is labor intensive and\nsubjective. While deep learning offers a promising alternative, a systematic\nevaluation of state of the art models such as YOLOv11 for fine grained PBS\ndetection is still lacking. In this work, we make two key contributions. First,\nwe curate a large scale annotated dataset for blood cell detection and\nclassification, comprising 16,891 images across 12 peripheral blood cell (PBC)\nclasses, along with the red blood cell class, all carefully re annotated for\nobject detection tasks. In total, the dataset contains 298,850 annotated cells.\nSecond, we leverage this dataset to conduct a comprehensive evaluation of five\nYOLOv11 variants (ranging from Nano to XLarge). These models are rigorously\nbenchmarked under two data splitting strategies (70:20:10 and 80:10:10) and\nsystematically assessed using multiple performance criteria, including mean\nAverage Precision (mAP), precision, recall, F1 score, and computational\nefficiency. Our experiments show that the YOLOv11 Medium variant achieves the\nbest trade off, reaching a mAP@0.5 of 0.934 under the 8:1:1 split. Larger\nmodels (Large and XLarge) provide only marginal accuracy gains at substantially\nhigher computational cost. Moreover, the 8:1:1 split consistently outperforms\nthe 7:2:1 split across all models. These findings highlight YOLOv11,\nparticularly the Medium variant, as a highly effective framework for automated,\nfine grained PBS detection. Beyond benchmarking, our publicly released dataset\n(github.com/Mohamad-AbouAli/OI-PBC-Dataset) offers a valuable resource to\nadvance research on blood cell detection and classification in hematology.",
+    "pdf_url": "http://arxiv.org/pdf/2509.24595v1",
+    "published": "2025-09-29"
+  }
+}

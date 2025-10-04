@@ -166,6 +166,7 @@ async def test_connect():
         print(f"Error connecting to servers: {e}")
     finally:
         await chatbot.cleanup()
+
 asyncio.run(test_connect())
 
 
