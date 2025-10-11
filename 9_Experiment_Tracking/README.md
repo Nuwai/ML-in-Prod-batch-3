@@ -6,9 +6,12 @@ pip install mlflow==2.14.0
 mlflow server --host 127.0.0.1 --port 8080
 
 gcloud auth application-default login
- gcloud config set project
- mlflow server --backend-store-uri sqlite:///mlflow.db --default-artifact-root gs://ths_test_dvc/mlflow_test
+gcloud config set project
+mlflow server --backend-store-uri sqlite:///mlflow.db --default-artifact-root gs://ths_test_dvc/mlflow_testing
 
+
+
+mlflow ui  --host 127.0.0.1 --port 8080 --backend-store-uri postgresql+psycopg2://mlflowuser:mlflowUSER1#@104.154.228.143:5432/mlflow_db --default-artifact-root gs://ths_test_dvc/mlflow_testing
 
 ```
 
