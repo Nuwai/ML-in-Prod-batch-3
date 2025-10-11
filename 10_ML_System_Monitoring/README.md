@@ -26,4 +26,5 @@
 - [https://medium.com/data-science/how-to-measure-drift-in-ml-embeddings-ee8adfe1e55e](https://medium.com/data-science/how-to-measure-drift-in-ml-embeddings-ee8adfe1e55e)
 
 
-
+### evidently version
+evidently==0.6.6
