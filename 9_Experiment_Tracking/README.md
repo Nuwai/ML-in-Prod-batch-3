@@ -5,6 +5,11 @@ pip install mlflow==2.14.0
 # Run locally
 mlflow server --host 127.0.0.1 --port 8080
 
+gcloud auth application-default login
+ gcloud config set project
+ mlflow server --backend-store-uri sqlite:///mlflow.db --default-artifact-root gs://ths_test_dvc/mlflow_test
+
+
 ```
 
 

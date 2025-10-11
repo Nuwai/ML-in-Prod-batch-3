@@ -1,0 +1,9 @@
+fastapi
+uvicorn
+pillow
+prometheus_client
+python-multipart
+psycopg2-binary
+scikit-learn
+pandas
+evidently==0.6.6
