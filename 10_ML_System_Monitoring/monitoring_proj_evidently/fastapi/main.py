@@ -53,6 +53,8 @@ def index() -> HTMLResponse:
 
 
 def get_pca_data(_pred_result_:np.array):
+    print("...in pca function...")
+    print(_pred_result_.shape)
     pca = PCA(n_components=5)
     features_reduced = pca.fit_transform(_pred_result_)
     return features_reduced

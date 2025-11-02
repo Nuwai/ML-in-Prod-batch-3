@@ -5,8 +5,8 @@ from airflow.operators.python import PythonOperator
 from airflow import DAG
 import os
 
-DESTINATION_BUCKET_NAME = 'mlflow_ths_server'
-FILE_NAME = "airflow_test/winequality-white.csv"
+DESTINATION_BUCKET_NAME = 'ths_test_dvc'
+FILE_NAME = "airflow_bucket/winequality-white.csv"
 
 #/opt/airflow/dags/service_account/service_account.json
 os.environ['GOOGLE_APPLICATION_CREDENTIALS'] = os.getcwd()+"/dags/service_account/service_account.json"
@@ -28,14 +28,14 @@ def file_changes():
 
 with DAG(
     dag_id='gcs_object_update_sensor_task',
-    schedule=None,
+    schedule='@daily',
     start_date=datetime(2024,8,12),
     tags=['gcp']
 ):
  
     check_update_file = GCSObjectUpdateSensor(
             bucket=DESTINATION_BUCKET_NAME,
-            object=FILE_NAME,
+            object="airflow_test/winequality-white.csv",
             task_id="gcs_object_update_sensor_task",
             poke_interval=60,  # Check every minute
             timeout=60 * 60,   # Timeout after 1 hour
@@ -53,7 +53,7 @@ with DAG(
 
     check_update_folder = GCSObjectsWithPrefixExistenceSensor(
                 bucket=DESTINATION_BUCKET_NAME,
-                prefix="airflow_test/winequality-white",
+                prefix="airflow_test/winequality-white.csv",
                 task_id="gcs_object_update_folder_sensor_task",
                 poke_interval=60,  # Check every minute
                 timeout=60 * 60,   # Timeout after 1 hour
