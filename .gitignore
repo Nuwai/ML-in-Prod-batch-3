@@ -201,3 +201,8 @@ tf_best_practices/cats_and_dogs_filtered/.DS_Store
 /9_Experiment_Tracking/temp/mlartifacts
 /9_Experiment_Tracking/mlruns
 /10_ML_System_Monitoring/workspace
+/15_ML_modern_stack/onnx/skin_cancer
+/14_Adv_ML/Agentic_RAG/db
+*.h5
+*.onnx
+*.zip

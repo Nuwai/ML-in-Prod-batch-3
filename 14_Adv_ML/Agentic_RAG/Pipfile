@@ -10,8 +10,8 @@ sentence-transformers = "*"
 langchain-groq = "*"
 langchain-huggingface = "*"
 pandas = "*"
-ollama = "*"
 crewai = "*"
+ollama = "*"
 
 [dev-packages]
 ipykernel = "*"
