@@ -3,7 +3,7 @@
 pip install onnx onnxruntime
 
 # for tensorflow
-pip install tensorflow tf2onnx onnxruntime
+pip install tensorflow tf2onnx onnxruntime onnx
 ```
 
-### Test model in  [Netron](https://netron.app/)
+### Inspect your model in : [Netron](https://netron.app/)
