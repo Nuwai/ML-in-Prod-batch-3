@@ -19,6 +19,9 @@ uv sync
 # 7. List installed packages
 uv pip list
 
+#8.create virtual env
+uv venv --python 3.11.13
+
 
 
 ```
